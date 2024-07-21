@@ -1,6 +1,6 @@
 Banking System
 
-This project is a simple banking system implemented in C++. 
+This project is a banking system implemented in C++. 
 It allows bank managers to manage customers and accounts, while customers can perform various transactions 
 such as deposits, withdrawals, and transfers.
 
